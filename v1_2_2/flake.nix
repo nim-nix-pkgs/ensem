@@ -11,7 +11,6 @@
   inputs.src-ensem-v1_2_2.ref   = "refs/tags/v1.2.2";
   inputs.src-ensem-v1_2_2.owner = "JeffersonLab";
   inputs.src-ensem-v1_2_2.repo  = "ensem";
-  inputs.src-ensem-v1_2_2.dir   = "";
   inputs.src-ensem-v1_2_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
