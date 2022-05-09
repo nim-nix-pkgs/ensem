@@ -7,7 +7,7 @@
   "license": "BSD3",
   "web": "https://github.com/JeffersonLab/ensem",
   "refs": [
-    "fatal: unable to access 'https://github.com/JeffersonLab/ensem/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/JeffersonLab/ensem/': SSL connection timeout",
     ""
   ],
   "heads": []
